@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S1souto
+- 👋 Hi, I’m Carlos
 - 👀 I’m interested in learning new programming languages ​​and entering the technology market
 - 🌱 I’m currently learning data science and studying programming languages.
 - 💞️ I’m looking to collaborate on python, java and SQL languages
